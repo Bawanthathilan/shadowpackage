@@ -3,7 +3,7 @@
 get perfect shadows every time for the non-designer.
 
 # installation
-`npm i shadowpackage --save`
+`npm i shadowimages --save`
 
 Then ...
 
